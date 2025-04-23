@@ -8,7 +8,7 @@ Deliverables before meeting 1, 4/23 - 4/29:
 
 Meeting 1: Tuesday 4/29; 12-1pm
 
---Covers: preliminary code evaluation + feedback + sharing any challenges
+--Covers: preliminary code evaluation + feedback + sharing any challenges + figure out exported dataset details
 
 
 
