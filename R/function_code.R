@@ -26,4 +26,5 @@ sds <- function(sds_packages, install_missing = TRUE, quiet = FALSE) {
 
 }
 
+sds_291 <- c("Stat2Data", "ggplot2", "broom", "dplyr", "equatiomatic", "performance", "see", "gridExtra", "moderndive", "GGally", "infer", "emmeans")
 
